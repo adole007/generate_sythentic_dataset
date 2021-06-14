@@ -1,0 +1,53 @@
+    [
+  {
+    "coverage": 0.6,
+    "grid": {
+      "cell_height": 70,
+      "cell_width": 70,
+      "count_x": 4,
+      "count_y": 6 
+    },
+    "offset_max": 0.0,
+    "offset_min": 0.0,
+    "repeat": 1,
+    "root_dir": "C:/Users/coaaa2/Desktop/1000_cl/dataset/new_testing/slant_right/",
+    "out_dir": "C:/Users/coaaa2/Desktop/1000_cl/dataset/GRID_DATA",
+    "scale_max": 0.9,
+    "scale_min": 1.0,
+    "show_bounds": true
+  },
+  {
+    "coverage": 0.7,
+    "grid": {
+      "cell_height": 70,
+      "cell_width": 70,
+      "count_x": 5,
+      "count_y": 8 
+    },
+    "offset_max": 0.0,
+    "offset_min": 0.0,
+    "repeat": 1,
+    "root_dir": "C:/Users/coaaa2/Desktop/1000_cl/dataset/new_testing/slant_left/",
+    "out_dir": "C:/Users/coaaa2/Desktop/1000_cl/dataset/GRID_DATA",
+    "scale_max": 0.9,
+    "scale_min": 1.0,
+    "show_bounds": true
+  },
+  {
+    "coverage": 0.3,
+    "grid": {
+      "cell_height": 70,
+      "cell_width": 70,
+      "count_x": 8,
+      "count_y": 10 
+    },
+    "offset_max": 0.0,
+    "offset_min": 0.0,
+    "repeat": 1,
+    "root_dir": "C:/Users/coaaa2/Desktop/1000_cl/dataset/new_testing/90_degree/",
+    "out_dir": "C:/Users/coaaa2/Desktop/1000_cl/dataset/GRID_DATA",
+    "scale_max": 0.9,
+    "scale_min": 1.0,
+    "show_bounds": true
+  }
+]
