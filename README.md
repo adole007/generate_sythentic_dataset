@@ -10,7 +10,7 @@ The project has a Pipfile to handle dependencies. To install follow instructions
 
 https://docs.pipenv.org/en/latest/install/
 
-Or you can use PyCharm:
+Or you can use PyCharm or Anaconda:
 
 https://www.jetbrains.com/help/pycharm/pipenv.html
 
